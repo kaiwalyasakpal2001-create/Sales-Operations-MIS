@@ -36,7 +36,6 @@ The MySQL database `sales` contains four tables:
 
 ## Power BI Dashboard Preview
 
-## Power BI Dashboard Preview
 
 ### Dashboard Screenshot 1
 ![Power BI Dashboard 1](powerbi-management-dashboard%201.png)
