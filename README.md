@@ -1,10 +1,10 @@
 # Sales & Operations MIS Reporting Project
 
 ## Project Overview
-This project uses MySQL to analyze sales and operations data for the period April 2025 to March 2026. The objective is to evaluate revenue, profitability, monthly performance, sales target achievement, and customer, product, and regional performance.
+This personal project analyzes sales and operations data for April 2025 to March 2026 using MySQL and Power BI. The objective is to evaluate sales performance, profitability, monthly trends, target achievement, and customer, product, and regional performance.
 
 ## Database Structure
-The database is named `sales` and contains four tables:
+The MySQL database `sales` contains four tables:
 
 - `customers` — 80 customer records
 - `products` — 40 product records
@@ -12,35 +12,46 @@ The database is named `sales` and contains four tables:
 - `target` — 12 monthly sales target records
 
 ## Tools Used
+- Microsoft Excel
 - MySQL
 - MySQL Workbench
+- Power BI Desktop
 - GitHub
 
-## Analysis Areas
-- Database and table structure exploration
-- Sales, cost, profit, and profit margin analysis
+## Project Workflow
+1. Organized and reviewed the source data.
+2. Explored the database tables and their structure.
+3. Used SQL queries and JOINs to analyze sales and profitability.
+4. Compared monthly sales performance against targets.
+5. Analyzed customer, product, category, and regional performance.
+6. Created a Power BI dashboard to present key business metrics and trends.
+
+## Key Analysis Areas
+- Overall sales, cost, profit, and profit margin
 - Monthly sales and profit trends
-- Monthly sales target achievement
+- Sales target achievement
 - Region-wise and state-wise performance
-- Customer performance
+- Customer sales performance
 - Product, category, and subcategory analysis
-- Table relationships using SQL JOINs
+
+## Power BI Dashboard Preview
+
+Dashboard screenshots will be displayed here to show key performance indicators, monthly sales versus target, top customers, and state-wise sales contribution.
 
 ## Files in This Repository
 
 **`sales_database.sql`**  
-Database export containing the table structures and data needed to recreate the project database.
+Database export containing the table structure and data.
 
 **`Sales_Operations_MIS.sql`**  
-SQL script containing queries for data exploration and business analysis.
+SQL queries for database exploration and business analysis.
 
-## How to Run the Project
-
+## How to Run the SQL Project
 1. Download both SQL files from this repository.
 2. Open MySQL Workbench and connect to a MySQL Server.
-3. Use **Server → Data Import** to restore `sales_database.sql`.
-4. After restoring the database, open `Sales_Operations_MIS.sql` using **File → Open SQL Script**.
-5. Execute the analysis queries and review the results.
+3. Import `sales_database.sql` using Server → Data Import.
+4. Open `Sales_Operations_MIS.sql` using File → Open SQL Script.
+5. Execute the queries and review the results.
 
-## Project Purpose
-This is a portfolio project demonstrating practical SQL skills for MIS Reporting and Junior Data Analyst roles.
+## Project Type
+Personal Portfolio Project
