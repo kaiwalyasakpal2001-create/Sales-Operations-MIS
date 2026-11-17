@@ -35,8 +35,8 @@ The MySQL database `sales` contains four tables:
 - Product, category, and subcategory analysis
 
 ## Power BI Dashboard Preview
+![Uploading Sales_MIS_Dashboard_HQ_3x.png…]()
 
-![Uploading image.png…]()
 
 
 ## Files in This Repository
