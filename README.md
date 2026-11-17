@@ -1,5 +1,5 @@
-<img width="4401" height="2412" alt="Sales_MIS_Dashboard_HQ_3x" src="https://github.com/user-attachments/assets/8da39376-f911-4406-885f-978f10575db7" />
-# Sales & Operations MIS Reporting Project
+
+**# Sales & Operations MIS Reporting Project**
 
 ## Project Overview
 This personal project analyzes sales and operations data for April 2025 to March 2026 using MySQL and Power BI. The objective is to evaluate sales performance, profitability, monthly trends, target achievement, and customer, product, and regional performance.
