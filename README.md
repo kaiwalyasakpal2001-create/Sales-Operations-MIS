@@ -39,6 +39,7 @@ The MySQL database `sales` contains four tables:
 
 
 
+
 ## Files in This Repository
 
 **`sales_database.sql`**  
