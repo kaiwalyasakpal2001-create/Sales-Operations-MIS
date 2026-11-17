@@ -1,3 +1,4 @@
+<img width="4401" height="2412" alt="Sales_MIS_Dashboard_HQ_3x" src="https://github.com/user-attachments/assets/8da39376-f911-4406-885f-978f10575db7" />
 # Sales & Operations MIS Reporting Project
 
 ## Project Overview
@@ -35,7 +36,8 @@ The MySQL database `sales` contains four tables:
 - Product, category, and subcategory analysis
 
 ## Power BI Dashboard Preview
-![Uploading Sales_MIS_Dashboard_HQ_3x.png…]()
+<img width="4401" height="2412" alt="Sales_MIS_Dashboard_HQ_3x" src="https://github.com/user-attachments/assets/96c76923-28d1-44be-93f4-ed105a4bcd59" />
+
 
 
 
